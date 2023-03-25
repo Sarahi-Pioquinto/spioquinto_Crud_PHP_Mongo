@@ -8,7 +8,7 @@
                 <div class="card-body">
                 <h2>Crud con mongodb y php</h2>
                 <a href="agregar.php" class="btn btn-primary">
-                <i class="fa-light fa-user-plus"></i>
+                <i class="fa-solid fa-user-plus"></i>
                 Agregar nuevo registro
                 </a>
                 <hr>
@@ -30,7 +30,7 @@
                             <td class="text-center">
                                 <form action="" method="post">
                                     <button class="btn btn-warning">
-                                    <i class="fa-light fa-user-pen"></i>
+                                    <i class="fa-solid fa-user-pen"></i>
                                         Editar
                                     </button>
                                 </form>
@@ -38,7 +38,7 @@
                             <td class="text-center">
                                 <form action="">
                                     <button class="btn btn-danger">
-                                    <i class="fa-light fa-user-xmark"></i>
+                                    <i class="fa-solid fa-user-xmark"></i>
                                         Eliminar
                                     </button>
                                 </form>
